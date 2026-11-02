@@ -1,0 +1,11 @@
+Activities:
+1. About the lecture
+2. Discussion- Menti & Breakout rooms
+3. Solution to assignment
+4. Other
+
+Mobile Security Countermeasures- enforcing the CIA, E.g., MDM, lock, pysicsl, IMEI, find my phone
+Technical Controls- password stregth, biometrics, data and code encryption, kemy management, PKC, VPN, patching asset management, 
+Security Principles- 
+end-users (lock, accept updates, strong passwords, storing the least amount, etc). developers (robust architecture, .. in dev't phases, data in transit, by design- lock settings, etc)
+
