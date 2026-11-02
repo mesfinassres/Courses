@@ -1,0 +1,12 @@
+Download Wireshark:
+https://www.wireshark.org/
+
+Tutorial on using Wireshark:
+https://www.guru99.com/wireshark-passwords-sniffer.html#2
+
+Test server:
+http://www.techpanda.org/
+
+admin@google.com
+Password2010
+
