@@ -1,0 +1,14 @@
+-- add a file/folder into github
+git add TEK304
+git commit -m "TEK304 Mobile security"
+git push
+-- remove a file from github
+git rm * -- remove all files
+git commit -m "files deleted"
+git push
+-- remove local repository
+git remote -v
+rm -r *
+rm -r courses
+-- update local repository
+git pull

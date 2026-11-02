@@ -1,0 +1,38 @@
+Activities:
+1. Updates
+2. Student presentation
+3. Group discussion
+4. Next: assignment, solution to previous, exam 
+
+What are the risks in the mobile ecosystem? 
+- more on trust on the mobile 
+- connected to many networks, many purposes (applications), 
+- limitted the devices ton install security measures
+- the devices them selves- mobility
+- end-users
+Why end users are the weakest link in the chain?
+- lack of awareness- e.g., negligense
+- lack of end-user experience (training)
+- user context? unpredictable users
+- humans are prone to error
+- the more user u have, there insecure it becomes
+- 
+
+What can be done to break this weakest link?
+- create end-user wareness- enhance users' cognitive efficiency through training
+- minimize user interaction 
+- standrdadize security practices
+- separate individual vs organizational use
+- install MDM infrastructure
+- app development- limitted access to data, intuitive UI, ...
+
+What are the other links in this chain and how secure are they really?
+- software- one of the most risky (e.g., scripting with in the the application)
+- network- most insecure!!!
+- servers- data storage, encryption, .... authontication/authorization, 
+- hardware- pyhsical risk (can be stole, natural disaster), , 
+
+
+
+The chain:
+- end-user, software, network, servers, hardware (mobile device, physical comm. link, the server hardware)
