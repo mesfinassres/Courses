@@ -1,0 +1,19 @@
+Agenda:
+- reading list: 
+  . chapter 1 in the text, software quality attributes
+  . software architecture(SA)- patterns, styles, documenting SA description, UML 
+  . SA with focus on healthcare applications
+  . have a look at the learning outcomes of the course
+  . the reading list in course guide (if found relevant for the assignment)
+  . DSR and software architecture
+- assignments to be done:
+  . add on to the main (final) deliverable
+  . review document, presentation slides
+  . the oral presentation
+- meeting times:
+  . next week (4 time 1 hour each) to on the fundamentals of SA 
+  . remaining 3 weeks- we meet only when needed+ during presentation and feedback
+  . week 38, week 39, week 40, week 41, week 42
+- grading:
+  . pass/fail (the ordinary way)
+ 
