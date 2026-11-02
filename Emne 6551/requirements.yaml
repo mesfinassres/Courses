@@ -1,0 +1,22 @@
+name: kristiania
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - tensorflow=2.6
+  - jupyterlab
+  - numpy
+  - pandas
+  - seaborn
+  - pytables
+  - scikit-learn
+  - xgboost
+  - flake8
+  - scikit-image
+  - lime
+  - python-graphviz
+  - shap
+  - pip: 
+      - efficientnet
+      - opencv-python
