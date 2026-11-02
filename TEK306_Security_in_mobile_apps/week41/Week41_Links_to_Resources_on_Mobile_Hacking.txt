@@ -1,0 +1,17 @@
+https://www.youtube.com/watch?v=Hl0IpoS503A
+https://www.greycampus.com/blog/information-security/5-amazing-ethical-hacking-techniques
+https://blog.finjan.com/9-common-hacking-techniques-and-how-to-deal-with-them/
+https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_tutorial.pdf
+http://index-of.es/Miscellanous/LIVRES/web-hacking-101.pdf
+https://www.wireshark.org/
+
+OAuth2 0 Authorization with Postman
+https://www.youtube.com/watch?v=pxD9e2fk9fE
+Media repository
+https://imgur.com/
+https://web.postman.co/home
+
+HACKING ANDROID WebViews (Static analysis - Part 2)
+https://www.youtube.com/watch?v=qS5PkC-37io
+
+https://www.oauth.com/playground/authorization-code.html

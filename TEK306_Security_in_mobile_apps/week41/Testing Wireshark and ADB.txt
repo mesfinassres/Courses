@@ -1,0 +1,33 @@
+Wireshark:
+----------------
+Download Wireshark from  https://www.wireshark.org/
+Tutorial on using Wireshark: https://www.guru99.com/wireshark-passwords-sniffer.html#2
+
+Open virtual mobile device from Android Studio login to the below website from the vitual device.
+Test server: http://www.techpanda.org/
+
+admin@google.com
+Password2010
+
+ADB:
+--------------
+adb -s emulator-5554 shell
+adb uninstall com.auth0.todo
+adb install -r app-debug.apk
+adb shell am start -n com.auth0.todo/.MainActivity
+==print text
+adb shell input text 'Wow, it so cool feature' 
+adb shell input keyevent 64 // Open browser
+adb shell input keyevent 207 // Contacts
+
+Oauth2 authorization flow:
+----------------------
+1. To get access to imgur images from postman
+https://api.imgur.com/3/account/mesfinassres/images
+2. Set up imgur to allow access
+https://api.imgur.com/oauth2/addclient
+3. Use callback url on both
+correct: https://oauth.pstmn.io/v1/browser-callback
+4. Set up authorize and token url on imgur
+https://api.imgur.com/oauth2/authorize
+https://api.imgur.com/oauth2/token
