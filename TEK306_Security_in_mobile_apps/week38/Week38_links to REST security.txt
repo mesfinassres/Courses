@@ -1,0 +1,17 @@
+https://quizlet.com/172475941/chapter-5-mobile-security-key-terms-flash-cards/
+https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security
+https://buildfire.com/create-restful-api-mobile-app/
+https://getvoip.com/blog/2017/10/19/embrace-enterprise-mobility/
+https://soti.sk/media/1590/ebook-mobile-security-threats-and-prevention.pdf
+https://blog.radware.com/security/applicationsecurity/2019/08/threats-on-apis-and-mobile-applications/
+https://www.netsparker.com/blog/web-security/rest-api-web-service-security/
+https://restfulapi.net/security-essentials/
+https://docs.oracle.com/cd/E74890_01/books/RestAPI/RestAPI_Overview13.html
+https://community.k2.com/t5/K2-Five/REST-API-OAuth2-client-credentials-flow/td-p/110555
+https://blog.approov.io/adapting-oauth2-for-internet-of-things-iot-api-security
+https://www.sanfoundry.com/cyber-security-questions-answers-freshers/
+https://www.sanfoundry.com/spring-questions-answers-rest-service-spring/
+https://help.bittitan.com/hc/en-us/articles/115008107307-Frequently-Asked-Questions-about-OAuth-2-0#what-happened-to-end-user-credentials--0-0
+https://simpleprogrammer.com/oauth-and-rest-in-android-part-1/
+https://developers.google.com/identity/work/saas-mobile-apps
+https://www.youtube.com/watch?v=cuB8TNT0rMw&feature=youtu.be
