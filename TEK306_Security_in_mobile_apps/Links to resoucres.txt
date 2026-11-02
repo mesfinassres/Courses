@@ -1,0 +1,31 @@
+Lecture on CNIT 128: Hacking Mobile Devices
+https://samsclass.info/128/128_S21.shtml#lecture
+
+https://www.archonsecure.com/blog/mobile-device-security-best-practices-2022
+https://cybersecurity.asee.co/blog/top-mobile-security-threats-prevention-tips/
+https://www.ntiva.com/blog/top-7-mobile-device-security-best-practices
+https://www.researchgate.net/publication/346916639_Mobile_Security_Threats_and_Best_Practices
+https://media.defense.gov/2021/Sep/16/2002855921/-1/-1/0/MOBILE_DEVICE_BEST_PRACTICES_FINAL_V3%20-%20COPY.PDF
+
+Knowledge
+
+The student...
+
+is able to demonstrate knowledge of the key theories and concepts in information risk and security
+is able to describe the main IT security frameworks, such as the ISO27000 series
+is able to demonstrate knowledge and understanding of security risk analysis and assurance techniques
+is able to demonstrate knowledge of main attack mechanisms and techniques
+Skills
+
+The student...
+
+can conduct a systematic risk analysis, assessing probability and business impact
+is able to design an IT security policy based on the risk analysis
+can assess the quality of the security policy
+General competence
+
+The student...
+
+can design and perform a risk analysis for an organization
+is able to formulate and communicate an appropriate IT security policy, based on a IT security framework
+is able to design and evaluate a security policy
