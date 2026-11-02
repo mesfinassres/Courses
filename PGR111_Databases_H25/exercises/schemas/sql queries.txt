@@ -1,0 +1,18 @@
+1. 	select name from city where name like "a%";
+
+2. 	SELECT c.name, co.name 
+	FROM city c
+	JOIN country co ON c.CountryCode = co.Code
+	WHERE c.name LIKE 'a%';
+
+
+Docker:
+
+Image: docker pull mysql:latest
+container: docker run --name PGR111 -d -p 3307:3306 -e MYSQL_ROOT_PASSWORD=password mysql mysqld --lower_case_table_names=1
+
+
+docker ps
+docker exec -it mysql-container mysql -uroot -p
+
+enter password
