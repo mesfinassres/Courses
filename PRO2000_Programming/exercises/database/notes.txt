@@ -1,0 +1,3 @@
+Compile:
+
+g++ -std=c++17 main.cpp -I./mysql/include -L./mysql/lib -lmysql -o main
