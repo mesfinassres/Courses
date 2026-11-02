@@ -1,0 +1,45 @@
+https://github.com/aaungdev/student-management-system
+https://www.opticsthewebsite.com/cppPortfolio
+
+https://www.stroustrup.com/PPP3.html
+https://www.stroustrup.com/PPP3_slides.html
+https://personales.unican.es/corcuerp/ProgCpp/code/examples_cpp.html
+
+
+Embedded C++ foundations :
+
+https://devblogs.microsoft.com/cppblog/vscode-embedded-development/
+
+https://medium.com/@future_fanatic/mastering-multithreading-in-c-concepts-examples-and-best-practices-43e3fb6a86e7
+
+https://medium.com/@pawan2505/introduction-to-c-programming-a-beginners-guide-d0f8943a97df
+
+https://medium.com/@einnosystechit/embedded-c-c-development-best-practices-for-high-performance-systems-03325bbd7377
+https://www.cloudkampus.com/executive-diploma-in-embedded-systems.php
+
+
+Embedded development with C++:
+https://medium.com/@rafaellevissa/automation-with-arduino-part-1-electronics-2b5817d47707
+https://medium.com/@rafaellevissa/automation-with-arduino-part-2-embedded-development-with-c-27e642cc92c6
+
+https://weckhawk.medium.com/c-in-embedded-systems-modern-practices-for-resource-constrained-environments-84627194f855
+
+BachelorIn Artificial Intelligence:
+
+https://www.kristiania.no/contentassets/51346f8bff3d432c9d8898a1b9744ae9/programme-description_bachelor-in-artificial-intelligence_2025-1-1.pdf?_gl=1*spstgi*_up*MQ..*_ga*MTM0MzE1MTkuMTc3MTE3MDcyNw..*_ga_QT9WL23P1M*czE3NzExNzA3MjYkbzEkZzAkdDE3NzExNzA3MjYkajYwJGwwJGgxODk0MDMzOTc0
+
+Emnebeskrivelse PRO2000 Programming:
+
+https://www.kristiania.no/studieportal/fakultet-for-helse-og-teknologi/bachelorniva/pro2000/programming/
+
+
+C++ Programming: From Problem Analysis to Program Design:
+https://elcom-team.com/Subjects/c%2B%2B/%D8%A7%D9%84%D9%83%D8%AA%D8%A8%20%D9%88%D8%A7%D9%84%D8%AD%D9%84%D9%88%D9%84/C%2Bbook8ed.pdf#page=340.99
+
+
+Embedded C++ course - Servo CubeMX Code Generation:
+https://www.youtube.com/watch?v=S8Ts-Inleww&list=PLVOrZvUg2mh_0_ZhULq2dQei_728KqLKe&index=15
+
+
+https://levelup.gitconnected.com/what-the-f-35-can-teach-us-about-writing-safer-embedded-c-e67ebb4955e7
+
